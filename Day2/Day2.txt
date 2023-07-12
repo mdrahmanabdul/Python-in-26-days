@@ -1,0 +1,31 @@
+#Thu 13 July
+
+Python Specification : 
+- Python can be implemented in many ways.
+- CPython : reference implementation written in C
+- PyPy : Subset of Python written in RPython
+- Jython : Written in Java
+- IronPython : Written in C#
+
+Popular Thired Party Packages : 
+- Numpy
+- SciPy
+- Pandas
+- Matplotlib
+- OpenCV
+
+More sophisticated tools :
+- Jupyter Notebooks
+- Google Colab
+- Scientific PYthon Development EnviRonment(Spyder)
+
+What is Integrated Development and Learning Environment(IDLE)?
+
+Python Programming Modes :
+    1. Interactive mode
+    2. Script Mode
+
+Check version of Python : 
+code : 
+import sys
+print(sys.version)
