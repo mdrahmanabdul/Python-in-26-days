@@ -29,3 +29,8 @@
     <li>26. Synchronization</li>
 </ul>
 
+<h1>How to Use This Repository</h1>
+You can clone this repository to your local machine to access all the topics and examples. Each topic follows the structured format mentioned above, making it easy to navigate and understand different Python concepts.
+
+<h1>Contribution</h1>
+If you find any issues, want to improve the content, or have suggestions for new topics, feel free to submit a pull request.
