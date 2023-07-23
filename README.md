@@ -1,3 +1,4 @@
+![Python Logo](Images/PYTHon.png)
 <h1>Learn Python in 26 Days</h1>
 <h2>In this bootcamp of 26 days learn about the following topics</h2>
 <ul>
@@ -34,3 +35,7 @@ You can clone this repository to your local machine to access all the topics and
 
 <h1>Contribution</h1>
 If you find any issues, want to improve the content, or have suggestions for new topics, feel free to submit a pull request.
+
+<h1>License</h1>
+This repository is under the MIT License. Feel free to use and share it!
+Using this format, learners will have a clear and organized structure for each topic, including syntax, explanations, examples, and exercises. This will make the repository more user-friendly and valuable for Python learners. Remember to provide accurate and comprehensive explanations to help learners grasp the concepts effectively.
